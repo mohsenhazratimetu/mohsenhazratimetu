@@ -1,6 +1,6 @@
 # Mohsen Hazrati
 
-I am an MSc student in physics at Middle East Technical University (METU). I use numerical models to study low-temperature discharges. I also work on vorticity and helicity in relativistic ideal fluids.
+I am a student in physics at Middle East Technical University (METU). I use numerical models to study low-temperature discharges. I also work on vorticity and helicity in relativistic ideal fluids.
 
 ## Research code
 
